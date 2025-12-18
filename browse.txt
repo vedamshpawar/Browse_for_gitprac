@@ -5,3 +5,9 @@ Most freshers never reach this stage.
 “To avoid Git conflicts, I always work on feature branches, 
 pull the latest base branch before coding, make small commits, 
 and use pull requests instead of pushing directly to master.”
+
+Two people edit same file
+
+Same lines
+
+Same time

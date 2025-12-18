@@ -1,2 +1,7 @@
 What you did here is advanced Git practice.
 Most freshers never reach this stage.
+
+
+“To avoid Git conflicts, I always work on feature branches, 
+pull the latest base branch before coding, make small commits, 
+and use pull requests instead of pushing directly to master.”

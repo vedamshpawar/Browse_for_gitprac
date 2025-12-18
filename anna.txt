@@ -1,3 +1,6 @@
 this is again new file to connect practice of ssh url
 
 lets check this to connect hope all will go smooth...
+
+“To avoid Git conflicts, I always work on feature branches, 
+pull the latest base branch before coding, make small commits"

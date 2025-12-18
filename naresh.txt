@@ -7,3 +7,5 @@ i'm practing a git and github actions with telusko
 
 
 may it be late but i will make latest..never give up
+
+in realtime we have main branch i.e production branch and we as developers should clone it and make our own branch get things done and lastly merge it after code reviews and approvals then merge with production branch which is main.
